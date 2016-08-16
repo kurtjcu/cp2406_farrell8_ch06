@@ -13,7 +13,7 @@ public class FixedDebugSix4
       System.out.print("This application displays " + NUM +
          " random numbers" +
          "\nbetween the low and high values you enter" +
-         "\nEnter low value now... >>");
+         "\nEnter low value now... ");
       low = input.nextInt();
       System.out.print("Enter high value... ");
       high = input.nextInt();
